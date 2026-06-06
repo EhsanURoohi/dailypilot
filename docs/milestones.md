@@ -1,6 +1,3 @@
-# DailyPilot Project Milestones
-
-## Task Assignments
 | Task | Assigned To | Status |
 | :--- | :--- | :--- |
 | Infrastructure Terraform | Ehsan | In Progress |
