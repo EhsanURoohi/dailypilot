@@ -8,6 +8,7 @@ DailyPilot Tasks is a secure, minimal web application designed to help users tra
 ## Team Members
 * **Ehsan**: Project Lead/Repo Owner
 * **Melkias Gobai**: GCP Owner/Frontend
+* * Jeffrey Hysons: DevSecOps Engineer (@UncleJ3ff)
 
 ## Core Features
 * **User Authentication**: Secure login for isolated task management.
