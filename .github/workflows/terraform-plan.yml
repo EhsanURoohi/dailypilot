@@ -23,8 +23,8 @@ jobs:
       with:
         workload_identity_provider: ${{ secrets.WIF_PROVIDER }}
         service_account: ${{ secrets.SA_EMAIL }}
-        
-        token_format: 'access_token'
+        token_format: 'access_token
+        create_credential_file: true
 
     - name: Setup Terraform
       uses: hashicorp/setup-terraform@v3
